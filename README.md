@@ -13,6 +13,40 @@ An AI-powered meal analysis and dietary tracking system built using FastAPI, MyS
 
 ---
 
+## 🏛 Architecture Diagram
+```mermaid
+graph LR
+    subgraph Frontend [React Frontend]
+        UI[User Interface]
+        Dash[Nutrition Dashboard]
+    end
+
+    subgraph Backend [FastAPI Backend]
+        API[REST API]
+        NLP[spaCy NLP Parser]
+        CV[Hugging Face ViT Classifier]
+        Recs[Recommendation Engine]
+    end
+
+    subgraph Database [Storage Layer]
+        MySQL[(MySQL / SQLite)]
+        CSV[(Nutrition Dataset)]
+    end
+
+    UI --> |Upload Image| API
+    UI --> |Input Text| API
+    API --> NLP
+    API --> CV
+    NLP --> CSV
+    CV --> CSV
+    API --> Recs
+    Recs --> MySQL
+    API --> MySQL
+    Dash <-- |Fetch Analytics| API
+```
+
+---
+
 ## 🛠️ Technology Stack
 - **Backend Framework:** FastAPI (Python 3.10+)
 - **Database Layer:** MySQL (via SQLAlchemy & PyMySQL) with automatic SQLite fallback

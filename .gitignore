@@ -5,3 +5,12 @@ __pycache__/
 .idea/
 .vscode/
 .DS_Store
+
+# Frontend
+node_modules/
+dist/
+.eslintcache
+
+# Database
+*.sqlite
+*.db
