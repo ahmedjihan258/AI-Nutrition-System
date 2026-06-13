@@ -1,0 +1,233 @@
+food_name,calories,protein,carbs,fat,aliases
+rice,130,2.7,28.0,0.3,"white rice,bhat"
+chicken curry,150,12.0,5.0,9.0,"chicken korma,chicken rezala,chicken bhuna"
+beef curry,220,18.0,4.0,14.0,"gorur mangsho,beef bhuna"
+dal,80,5.0,12.0,1.5,"lentil soup,lentils,soup"
+roti,120,4.0,24.0,1.0,"flatbread,ruti,chapati"
+chapati,120,4.0,24.0,1.0,chupati
+fish curry,130,14.0,3.0,7.0,"machher jhol,rui fish curry"
+biryani,200,10.0,25.0,8.0,"biriyani,mutton biryani,chicken biryani,kacchi biryani"
+chicken biryani,200,10.0,25.0,8.0,chicken biriyani
+mutton biryani,230,12.0,24.0,10.0,mutton biriyani
+khichuri,140,5.0,25.0,3.0,"khichdi,bhuna khichuri"
+fried rice,160,4.0,28.0,4.0,friedrice
+samosa,262,4.5,32.0,13.0,shamocha
+singara,250,4.0,30.0,12.0,shingara
+sweet,186,4.0,40.0,1.8,"mishti,rasgulla,rasmalai"
+rasgulla,186,4.0,40.0,1.8,roshgolla
+paratha,326,6.0,45.0,13.0,"porota,parata"
+porota,326,6.0,45.0,13.0,paratha
+luchi,290,5.0,40.0,12.0,puri
+tehari,220,11.0,26.0,9.0,beef tehari
+kacchi biryani,240,13.0,23.0,11.0,kacchi
+morog polao,210,12.0,25.0,8.0,chicken polao
+bhuna khichuri,160,6.0,24.0,5.0,beef khichuri
+panta bhat,90,1.5,20.0,0.2,fermented rice
+beef bhuna,250,19.0,3.0,17.0,beef curry
+kala bhuna,280,20.0,2.0,21.0,beef kala bhuna
+chicken roast,210,16.0,4.0,14.0,shadi bari roast
+chicken rezala,190,14.0,5.0,12.0,rezala
+mutton curry,240,17.0,3.0,17.0,khashir mangsho
+hilsa curry,260,18.0,2.0,20.0,ilish jhol
+hilsa fish,250,19.0,0.0,19.0,"ilish,ilish bhaji"
+rui fish curry,140,15.0,3.0,8.0,rui machher jhol
+katla curry,145,15.0,3.0,8.0,katla machh
+prawn curry,160,15.0,4.0,9.0,chingri curry
+shutki bhuna,180,22.0,2.0,9.0,"shutki bhaji,dry fish"
+chingri malai curry,210,16.0,5.0,14.0,prawn malai curry
+fuchka,180,4.0,28.0,6.0,"pani puri,golgappa"
+chotpoti,150,6.0,22.0,4.0,chot poti
+jhalmuri,220,5.0,35.0,7.0,jhal muri
+bakarkhani,360,8.0,55.0,12.0,bakharkhani
+pitha,250,4.0,50.0,4.0,"chitoi pitha,bhapa pitha"
+bhapa pitha,180,3.0,40.0,1.0,vapa pitha
+patisapta,220,4.0,45.0,3.0,patisapta pitha
+chitoi pitha,130,2.5,29.0,0.5,chitoi
+roshmalai,250,6.0,38.0,8.0,rasmalai
+mishti doi,140,4.0,24.0,3.5,sweet yogurt
+sheek kabab,180,18.0,2.0,11.0,"seekh kebab,sheekh kabab"
+chicken tikka kabab,160,20.0,3.0,7.0,chicken tikka kebab
+beef kofta,210,18.0,3.0,14.0,beef meatballs
+beguni,220,3.0,25.0,12.0,fried eggplant
+piaju,240,5.0,28.0,12.0,"onion pakora,pyaju"
+chola bhuna,180,8.0,24.0,6.0,"chana bhuna,buter dal"
+halim,150,9.0,18.0,5.0,shahi halim
+borhani,70,2.5,6.0,4.0,burhani
+butter chicken,210,14.0,6.0,14.0,murgh makhani
+chicken tikka,160,20.0,3.0,7.0,tikka
+chicken tikka masala,180,15.0,6.0,10.0,tikka masala
+palak paneer,140,7.0,5.0,10.0,spinach paneer
+paneer butter masala,200,8.0,7.0,16.0,paneer makhani
+dal makhani,120,5.0,16.0,4.0,dal makhni
+naan,290,8.0,50.0,6.0,nan
+garlic naan,310,8.5,52.0,7.5,garlic nan
+pakora,220,4.0,25.0,11.0,fritters
+dosa,160,4.0,29.0,3.0,dhosa
+masala dosa,180,4.0,32.0,4.0,masala dhosa
+idli,120,3.0,25.0,0.5,edli
+vada,230,6.0,28.0,11.0,"wada,bara"
+upma,150,4.0,25.0,3.5,uppuma
+aloo gobhi,90,2.0,10.0,5.0,aloo gobi
+chana masala,130,6.0,20.0,3.0,chole
+tandoori chicken,150,22.0,2.0,6.0,tandoori
+samosa chat,210,5.0,30.0,8.0,samosa chaat
+gulab jamun,320,4.0,60.0,8.0,gulab jam
+rasmalai,250,6.0,38.0,8.0,roshmalai
+bread,265,9.0,49.0,3.0,"white bread,brown bread"
+toast,313,10.0,58.0,4.0,toasted bread
+butter toast,380,9.0,50.0,16.0,buttered toast
+jam toast,340,8.0,62.0,6.0,toast with jam
+egg,155,13.0,1.1,11.0,"boiled egg,fried egg,scrambled egg,poached egg,boiled eggs"
+boiled egg,155,13.0,1.1,11.0,"boiled eggs,hard boiled egg"
+fried egg,196,13.6,0.9,15.0,"sunny side up,fried eggs"
+scrambled egg,148,10.0,1.6,11.0,scrambled eggs
+poached egg,143,12.5,0.7,10.0,poached eggs
+cornflakes,360,7.0,84.0,0.4,corn flakes
+muesli,370,10.0,66.0,6.0,musli
+granola,471,10.0,64.0,20.0,granola bar
+oatmeal,68,2.4,12.0,1.4,"oat porridge,oats"
+pancakes,227,6.0,28.0,10.0,"pancake,hotcakes"
+waffles,291,5.0,33.0,14.0,waffle
+french toast,230,8.0,28.0,10.0,french toasts
+bagel,250,10.0,48.0,1.5,plain bagel
+croissant,406,8.0,46.0,21.0,croissants
+hash browns,327,3.0,40.0,18.0,hashbrowns
+sausage,300,12.0,2.0,27.0,sausages
+apple,52,0.3,14.0,0.2,"apples,red apple"
+banana,89,1.1,23.0,0.3,"bananas,kela"
+watermelon,30,0.6,8.0,0.2,"water melon,tormuj"
+pineapple,50,0.5,13.0,0.1,anaras
+papaya,43,0.5,11.0,0.3,pepe
+guava,68,2.6,14.0,1.0,peyara
+dragon fruit,60,1.2,13.0,0.5,dragonfruit
+pear,57,0.4,15.0,0.1,nashpati
+peach,39,0.9,10.0,0.3,peaches
+litchi,66,0.8,17.0,0.4,"lichi,lichee"
+jackfruit,95,1.7,23.0,0.6,kathal
+strawberry,32,0.7,8.0,0.3,strawberries
+blueberry,57,0.7,14.0,0.3,blueberries
+blackberry,43,1.4,10.0,0.5,blackberries
+kiwi,61,1.1,15.0,0.5,kiwifruit
+avocado,160,2.0,9.0,15.0,avocados
+dates,277,1.8,75.0,0.2,"khejur,date"
+orange,47,0.9,12.0,0.1,kamla
+mango,60,0.8,15.0,0.4,"aam,mangoes"
+grapes,69,0.7,18.0,0.2,"grape,angur"
+potato,87,1.9,20.0,0.1,"potatoes,alu"
+cucumber,15,0.7,3.6,0.1,shosha
+tomato,18,0.9,3.9,0.2,tomatoes
+carrot,41,0.9,10.0,0.2,"carrots,gajor"
+broccoli,34,2.8,7.0,0.4,brocoli
+spinach,23,2.9,3.6,0.4,"palong shak,spinaci"
+cabbage,25,1.3,6.0,0.1,bandhakopi
+cauliflower,25,1.9,5.0,0.3,fulkopi
+green beans,31,1.8,7.0,0.2,"beans,borboti"
+peas,81,5.4,14.0,0.4,"green peas,koraishuti"
+bell pepper,20,0.9,4.6,0.2,"capsicum,sweet pepper"
+lettuce,15,1.4,2.9,0.2,letus pata
+sweet potato,86,1.6,20.0,0.1,"sweet potatoes,misti alu"
+eggplant,25,1.0,6.0,0.2,"aubergine,brinjal,begun"
+onion,40,1.1,9.0,0.1,"onions,piyaj"
+garlic,149,6.4,33.0,0.5,rasun
+mushroom,22,3.1,3.3,0.3,mushrooms
+pumpkin,26,1.0,6.5,0.1,"misti kumra,kumro"
+okra,33,1.9,7.5,0.2,"ladies finger,dharosh"
+salad,20,1.0,4.0,0.2,"green salad,mix salad"
+chicken breast,165,31.0,0.0,3.6,chicken breast fillet
+steak,271,25.0,0.0,19.0,"beef steak,beefsteak"
+beef steak,271,25.0,0.0,19.0,steak
+salmon,208,20.0,0.0,13.0,salmon fish
+grilled salmon,208,20.0,0.0,13.0,grill salmon
+chicken thigh,209,26.0,0.0,11.0,chicken thighs
+chicken leg,191,27.0,0.0,8.5,chicken drumstick
+turkey,189,29.0,0.0,7.0,turkey breast
+tuna,132,28.0,0.0,1.3,"canned tuna,tuna fish"
+tilapia,128,26.0,0.0,2.7,tilapia fish
+shrimp,99,24.0,0.2,0.3,shrimps
+prawns,99,24.0,0.2,0.3,"prawn,chingri"
+tofu,76,8.0,1.9,4.8,bean curd
+paneer,265,18.0,3.0,20.0,cottage cheese
+chickpeas,164,9.0,27.0,2.6,"chana,kabuli chana"
+black beans,132,9.0,24.0,0.5,black bean
+kidney beans,127,8.7,22.8,0.5,rajma
+lentils,116,9.0,20.0,0.4,masoor dal
+soybeans,173,16.6,9.9,9.0,"soy bean,edamame"
+almonds,579,21.0,22.0,49.0,"almond,kathbadam"
+pizza,266,11.0,33.0,10.0,"pepperoni pizza,cheese pizza"
+hamburger,295,13.0,30.0,14.0,"burger,beef burger"
+burger,295,13.0,30.0,14.0,"beef burger,hamburger"
+french fries,312,3.4,41.0,15.0,"chips,fries"
+cheeseburger,300,15.0,31.0,14.0,cheese burger
+double burger,320,18.0,28.0,16.0,double cheeseburger
+chicken burger,280,14.0,32.0,11.0,crispy chicken burger
+chicken sandwich,270,16.0,30.0,10.0,club sandwich
+sub sandwich,230,12.0,35.0,5.0,"subway,sub"
+shawarma,220,14.0,20.0,9.0,"shaurma,shwarma"
+chicken shawarma,210,16.0,18.0,8.0,chicken wrap
+beef shawarma,230,15.0,19.0,11.0,beef wrap
+wrap,250,10.0,32.0,9.0,tortilla wrap
+hot dog,290,10.0,18.0,20.0,hotdog
+loaded fries,350,6.0,38.0,19.0,cheese fries
+fried chicken,280,18.0,12.0,18.0,"kfc chicken,broast chicken"
+chicken nuggets,302,15.0,16.0,20.0,nuggets
+tacos,226,9.0,20.0,13.0,taco
+nachos,306,6.0,36.0,16.0,nacho
+onion rings,276,3.0,38.0,12.0,onion ring
+lasagna,135,9.0,11.0,6.0,lasagne
+spaghetti,158,5.8,31.0,0.9,pasta
+spaghetti bolognese,158,5.8,31.0,0.9,pasta bolognese
+spaghetti carbonara,200,8.0,25.0,8.0,carbonara
+carbonara,200,8.0,25.0,8.0,spaghetti carbonara
+chicken quesadilla,263,13.0,22.0,14.0,quesadilla
+club sandwich,250,12.0,25.0,11.0,clubhouses
+sushi,130,2.9,28.0,0.1,"sushi roll,maki"
+fettuccine alfredo,220,7.0,22.0,12.0,pasta alfredo
+mac and cheese,164,6.5,22.0,5.4,macaroni and cheese
+chicken alfredo,180,12.0,20.0,6.0,pasta chicken alfredo
+risotto,130,3.0,24.0,2.5,mushroom risotto
+burrito,206,8.0,26.0,7.0,"beef burrito,chicken burrito"
+quesadilla,290,12.0,26.0,15.0,cheese quesadilla
+ramen,436,10.0,65.0,15.0,ramen noodles
+pho,80,6.0,10.0,1.5,vietnamese pho
+pad thai,180,6.0,30.0,4.0,padthai
+tempura,220,5.0,25.0,11.0,shrimp tempura
+sushi roll,140,4.0,28.0,1.5,california roll
+tomyum soup,60,4.0,5.0,2.5,"tom yum,tom yam"
+milk,61,3.2,4.8,3.3,"whole milk,cow milk"
+yogurt,59,3.5,4.7,3.3,"plain yogurt,tok doi"
+tea,2,0.1,0.2,0.0,"black tea,cha"
+milk tea,45,1.0,8.0,1.0,dudh cha
+green tea,2,0.1,0.2,0.0,greentea
+black tea,2,0.1,0.2,0.0,lal cha
+coffee,2,0.1,0.0,0.0,black coffee
+black coffee,2,0.1,0.0,0.0,americano
+latte,45,2.5,5.0,1.5,caffe latte
+cappuccino,40,2.3,4.5,1.5,cappucino
+espresso,9,0.1,1.7,0.2,espresso shot
+orange juice,45,0.7,10.4,0.2,orangejuice
+apple juice,46,0.1,11.3,0.1,applejuice
+mango juice,60,0.4,15.0,0.1,mango smoothie
+lassi,75,2.0,12.0,2.0,"sweet lassi,mango lassi"
+soft drink,40,0.0,10.0,0.0,"soda,coke,pepsi,cold drink"
+coca cola,38,0.0,10.0,0.0,coke
+pepsi,41,0.0,11.0,0.0,pepsi cola
+lemon juice,22,0.4,7.0,0.2,lemonade
+coconut water,19,0.7,3.7,0.2,dab er pani
+chocolate cake,389,3.5,53.0,19.0,fudge cake
+ice cream,207,3.5,24.0,11.0,icecream
+donuts,417,4.5,51.0,22.0,"donut,doughnut"
+strawberry shortcake,292,3.0,48.0,10.0,strawberry cake
+cheesecake,321,5.5,26.0,22.0,cheese cake
+carrot cake,326,3.3,47.0,15.0,carrotcake
+apple pie,237,2.0,34.0,11.0,applepie
+brownie,466,4.8,59.0,24.0,"chocolate brownie,brownies"
+chocolate brownie,466,4.8,59.0,24.0,brownie
+chocolate muffin,377,5.5,54.0,16.0,muffin
+cupcake,380,3.0,53.0,18.0,cup cakes
+cookies,502,6.0,62.0,26.0,"cookie,biscuit"
+chocolate chip cookies,487,5.0,66.0,22.0,chocolate chip cookie
+donut,417,4.5,51.0,22.0,doughnut
+vanilla ice cream,207,3.5,24.0,11.0,vanilla icecream
+chocolate ice cream,216,3.8,25.0,11.0,chocolate icecream
+tiramisu,283,4.7,31.0,15.0,tiramisu cake
+custard,110,3.0,16.0,4.0,caramel custard
