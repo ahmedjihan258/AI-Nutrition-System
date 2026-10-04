@@ -33,8 +33,8 @@ graph LR
         CSV[(Nutrition Dataset)]
     end
 
-    UI --> |Upload Image| API
-    UI --> |Input Text| API
+    UI -->|Upload Image| API
+    UI -->|Input Text| API
     API --> NLP
     API --> CV
     NLP --> CSV
@@ -42,7 +42,7 @@ graph LR
     API --> Recs
     Recs --> MySQL
     API --> MySQL
-    Dash <-- |Fetch Analytics| API
+    Dash <--|Fetch Analytics| API
 ```
 
 ---
