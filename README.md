@@ -42,7 +42,7 @@ graph LR
     API --> Recs
     Recs --> MySQL
     API --> MySQL
-    Dash <--|Fetch Analytics| API
+    API -->|Fetch Analytics| Dash
 ```
 
 ---
